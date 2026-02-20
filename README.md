@@ -56,7 +56,7 @@ npm install
 
 Create `.env.local` file in the root directory:
 ```env
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/kodbank
+MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your-secret-key-min-32-characters
 JWT_REFRESH_SECRET=your-refresh-secret-key-min-32-characters
 NODE_ENV=development
