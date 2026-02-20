@@ -2,6 +2,8 @@
 
 A modern, secure, and elegant banking application built with Next.js, featuring ultra-premium glassmorphism UI and enterprise-grade security.
 
+🔗 **Live Demo**: [https://kod-bank-sooty.vercel.app](https://kod-bank-sooty.vercel.app)
+
 ![Next.js](https://img.shields.io/badge/Next.js-16.1.6-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?style=flat-square&logo=mongodb)
