@@ -204,22 +204,3 @@ Contributions are welcome! Please follow these steps:
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**KodBank Team**
-
-## 🙏 Acknowledgments
-
-- Next.js team for the amazing framework
-- Vercel for hosting and deployment
-- MongoDB for the database platform
-- Tailwind CSS for the styling system
-
-## 📧 Support
-
-For support, email support@kodbank.com or open an issue on GitHub.
-
----
-
-**Built with ❤️ using Next.js and TypeScript**
